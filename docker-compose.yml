@@ -2,7 +2,7 @@ version: '3'
 
 services:
    tomcat:
-     image: mohnreddy/compose
+     image: 13.127.121.7:8083/composenexus
      ports:
        - "8090:8080"
       
