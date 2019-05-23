@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mohan Reddy Releases Nexus Repository</name>
-	      <url>http://13.233.194.187:8081/repository/jenkins-maven-releases/</url>
+	      <url>http://13.233.105.32:8081/repository/mohn-maven-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mohan Reddys Snapshot Nexus Repository </name>
-	      <url>http://13.233.194.187:8081/repository/jenkins-maven-snapshots/</url>
+	      <url>http://13.233.105.32:8081/repository/mohn-maven-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
